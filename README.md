@@ -1,1 +1,1 @@
-Exercícios feitos pelo aluno: Pedro Augusto Marques Rosa (RA: 2039485)
+Fiz um exercício prático em php, com a classe carro e outro exercício distinto sobre um mini e-commerce!
